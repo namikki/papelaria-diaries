@@ -1,8 +1,8 @@
 <?php
 
     $servidor = "localhost";
-    $admin = "myiambiancf1";
-    $senha = "EI1rNoRd";
+    $admin = "***";
+    $senha = "***";
     $banco = "papelariadiaries";
 
     $BD = new mysqli($servidor, $admin, $senha, $banco);
